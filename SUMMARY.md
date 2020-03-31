@@ -9,6 +9,6 @@
 * [6. 呼叫 API：使用 Axios](6.-api-calls-with-axios.md)
 * [7. Async/Await & 進度條](7.-async-await-and-progress-bar.md)
 * [8. 使用 Vuex](8.-using-vuex.md)
-* [9.Universal 模式下的部署](10.-universal-mode-deployment.md)
-* [10. Static Site Generated Deployment](11.-static-site-generated-deployment.md)
+* [9.Universal 模式下的部署](9.-universal-mode-deployment.md)
+* [10. Static Site Generated Deployment](10.-static-site-generated-deployment.md)
 
